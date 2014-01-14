@@ -1,0 +1,3 @@
+test_vendor_test:
+    resource: "@TestVendorTestBundle/Resources/config/routing.yml"
+    prefix:   /
